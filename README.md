@@ -1,1 +1,1 @@
-# react-49-lection
+# react-49-lection-redux
